@@ -87,13 +87,12 @@ footer {
 }
 
 .dark-mode {
-    background-color: black;
+    background-color: #003049;
     color: white;
 }
 
 .api_status a {
     text-decoration: none;
-    color: white;
     margin-right: .5rem;
 }
 
